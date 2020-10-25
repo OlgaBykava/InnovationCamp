@@ -10,14 +10,20 @@ body,
 }
 .second-block2{
     display: inline-block;
-    color: #411301;
-    font-size: 35px;
-
+    color: #b8166f;
+    font-size: 30px;
     align-items: center;
 }
-span{
-    padding: 1px 150px;
+span1{
+    padding: 1px 100px;
 }
+span2{
+    padding: 1px 174px;
+}
+span3{
+    padding: 1px 125px;
+}
+
 .second-block1{
     display: inline-block;
 border: 20px ;
