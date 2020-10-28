@@ -1,41 +1,52 @@
 body,
 .first-block {
     margin-bottom: 20px;
-    padding: 20px 20px 20px 20px ;
-    background-color: #a2e1e7;
+    padding: 20px 20px 20px 20px;
+    background-color: #db7e40;
     font-size: 50px;
     text-align: center;
-    color: #4f1601;
+    color: #000000;
 
 }
-.second-block2{
+
+.second-block2 {
     display: inline-block;
     color: #b8166f;
     font-size: 30px;
     align-items: center;
 }
-span1{
+
+span1 {
     padding: 1px 100px;
 }
-span2{
+
+span2 {
     padding: 1px 174px;
 }
-span3{
+
+span3 {
     padding: 1px 125px;
 }
 
-.second-block1{
+.second-block1 {
     display: inline-block;
-border: 20px ;
+    border: 20px;
     align-items: center;
 }
-span1{
+
+span1 {
     padding: 2px 120px;
 }
 
 .third-block {
 
-text-align: justify;
+    text-align: justify;
     font-size: 20px;
-    color: #512e04;
+    color: #000000;
+}
+
+p2 {
+    font-size: 50px;
+    color: white;
+
 }
